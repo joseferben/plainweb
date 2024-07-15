@@ -36,7 +36,7 @@
     "recursive-readdir": "^2.2.3",
     "semver": "^7.6.2",
     "sort-package-json": "^1.55.0",
-    "strip-ansi": "^6.0.1",
+    "strip-ansi": "^7.0.0",
     "tar-fs": "^3.0.0"
   },
   "devDependencies": {

@@ -33,7 +33,7 @@
     "proxy-agent": "^6.3.0",
     "recursive-readdir": "^2.2.3",
     "semver": "^7.6.2",
-    "sort-package-json": "^1.55.0",
+    "sort-package-json": "^2.0.0",
     "strip-ansi": "^6.0.1",
     "tar-fs": "^3.0.0"
   },

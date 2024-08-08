@@ -24,7 +24,7 @@
     "better-sqlite3": "^11.0.0",
     "compression": "^1.7.4",
     "dotenv": "^16.4.5",
-    "drizzle-kit": "^0.23.0",
+    "drizzle-kit": "^0.24.0",
     "drizzle-orm": "^0.32.0",
     "errorhandler": "^1.5.1",
     "express": "^4.19.2",
